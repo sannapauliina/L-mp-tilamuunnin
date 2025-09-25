@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+
+.container {
+    margin: 40px auto;         /* keskittää ja lisää marginaalia */
+    padding: 20px;             /* sisämarginaali sisällölle */
+    border: 2px solid black;   /* musta reunaviiva */
+    border-radius: 15px;       /* pyöristetyt kulmat */
+    max-width: 400px;          /* rajoittaa leveyttä */
+    background-color: #fff;    /* valkoinen tausta */
+}
